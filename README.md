@@ -1,7 +1,7 @@
 # TP8 — Polymorphisme et Classes Virtuelles en C++
 
 ##  Objectif général
-Ce TP a pour but de comprendre et de mettre en œuvre le **polymorphisme** en C++ à travers l’utilisation de **classes abstraites**, de **méthodes virtuelles**, et de **pointeurs intelligents** (`std::unique_ptr`).  
+Ce TP a pour but de comprendre et de mettre en œuvre le **polymorphisme** en C++ à travers l’utilisation de **classes abstraites**, de **méthodes virtuelles**
 Les exercices visent à illustrer :
 - le comportement dynamique des classes dérivées via des pointeurs de la classe de base ;
 - la gestion mémoire avec des destructeurs virtuels ;
