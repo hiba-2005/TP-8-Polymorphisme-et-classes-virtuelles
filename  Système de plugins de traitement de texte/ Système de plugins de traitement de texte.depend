@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1761481861 source:c:\users\pc\documents\3 eme annee\c++\tp8c++\ système de plugins de traitement de texte\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<memory>
+
